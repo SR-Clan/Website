@@ -8,4 +8,4 @@ TEAM:
 + Mat
 + Hype
 + Sans
-+ Many More
++ (Many More)
